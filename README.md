@@ -1,5 +1,6 @@
 # PYTHON_capstone1
 This is the first Capstone project using Python in the HyperionDev Software Engineering course.
+The project will create a Finance Calculator.
 
 The code does the following:
 1. The user is allowed to choose which calculation they want
@@ -27,7 +28,3 @@ The code does the following:
   ● The interest rate. E.g. 7
   ● The number of months they plan to take to repay the
     bond. E.g. 120
-    
-    
-
-
